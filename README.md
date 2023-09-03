@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on building responsive projects 
-- 📫 How to reach me @natenyong on twitter and GitHub 
+- 📫 How to reach me @twiitbynate on twitter and GitHub 
 
 <!---
 natenyong/natenyong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
